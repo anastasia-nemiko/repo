@@ -25,20 +25,20 @@ console.log(arr[0]);
 
 //console.log(answer);
 
-//let answer =  prompt('javascript ebanyj?','Da');
+let answer =  prompt('javascript?','Da');
 
-//console.log(typeof(answer));
+console.log(typeof(answer));
 
 //console.log(' arr '+ 4);
 
-let incr = 10,
-    decr = 10;
+//let incr = 10,
+  //  decr = 10;
 
-incr++;
-decr--;
+//incr++;
+//decr--;
 
-console.log(incr);
-console.log(decr);
+//console.log(incr);
+//console.log(decr);
 
 
 
